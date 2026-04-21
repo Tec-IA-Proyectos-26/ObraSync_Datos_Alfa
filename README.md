@@ -21,7 +21,7 @@ en el cual figuren los nombres de los participantes y el link al repositorio que
 | ------------- |:-------------:|
 | Ana Aguirre    | [AnaAguirre77](https://github.com/AnaAguirre77) |
 | Belen Riquelme | [bely092](https://github.com/bely092) |
-| Jorge Paredes  | git     |
+| Jorge Paredes  | [GeorgiWalls](https://github.com/GeorgiWalls) |
 | Leandro Cabral | [Leancbal](https://github.com/Leancbal)  |
 | Nicolas Farias | [NICOLASFARIAS](https://github.com/NICOLASEFARIAS)|
 | Wanda Esquivel | [Wanda126](https://github.com/Wanda126)|
