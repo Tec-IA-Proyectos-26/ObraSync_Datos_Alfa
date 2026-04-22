@@ -4,17 +4,17 @@
 ## Evidencia 1
 
 ### Problematica:
-* Nuestro proyecto propone una solución de análisis y predicción del consumo de materiales, insumos y consumibles, basada en datos históricos, con el objetivo de optimizar la planificación de compras para obras, reduciendo faltantes y mejorando la eficiencia en el uso de recursos. *
+*Nuestro proyecto propone una solución de análisis y predicción del consumo de materiales, insumos y consumibles, basada en datos históricos, con el objetivo de optimizar la planificación de compras para obras, reduciendo faltantes y mejorando la eficiencia en el uso de recursos.*
 
 **Descripción del dataset**
-*Descripción: Nombre y caracteristicas del producto.
-*Marca: Marca del producto.
-*Compra Total: Cantidad de unidades compradas.
-*Ingreso Total: Cantidad de unidades que ingresaron.
-*Pendiente: Cantidad de unidades que no ingresaron.
-*Estado: Indicador de estado del pedido (incompleto/parcial/full).
-*Fecha: Fecha en la que se emitió el pedido.
-*Año: Año en que se emitió el pedido.
+* Descripción: Nombre y caracteristicas del producto.
+* Marca: Marca del producto.
+* Compra Total: Cantidad de unidades compradas.
+* Ingreso Total: Cantidad de unidades que ingresaron.
+* Pendiente: Cantidad de unidades que no ingresaron.
+* Estado: Indicador de estado del pedido (incompleto/parcial/full).
+* Fecha: Fecha en la que se emitió el pedido.
+* Año: Año en que se emitió el pedido.
 
 <br>
 
