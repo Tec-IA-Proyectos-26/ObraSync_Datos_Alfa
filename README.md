@@ -13,7 +13,7 @@
 * Ingreso Total: Cantidad de unidades que ingresaron.
 * Pendiente: Cantidad de unidades que no ingresaron.
 * Estado: Indicador de estado del pedido (incompleto/parcial/full).
-* Fecha: Fecha en la que se emitió el pedido.
+* Fecha: Fecha del ultimo movimiento del pedido.
 * Año: Año en que se emitió el pedido.
 
 <br>
