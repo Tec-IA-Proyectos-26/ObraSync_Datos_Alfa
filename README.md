@@ -18,6 +18,17 @@
 
 <br>
 
+
+## Evidencia 2 – Limpieza y transformación
+Objetivo: preparar los datos.
+
+>Incluye:
+> * Limpieza de datos
+> * Estandarización
+> * Dataset final -" DATOS / DATA_BASE_LISTO.csv "
+
+<br>
+
 ## Integrantes
 
 |     Nombre    |     Usuario   |
