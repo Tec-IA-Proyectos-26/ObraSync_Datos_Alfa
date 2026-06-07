@@ -29,6 +29,14 @@ Objetivo: preparar los datos.
 
 <br>
 
+
+## Evidencia 3 – Análisis exploratorio
+
+>Incluye:
+> * Análisis descriptivo
+> * Detección de patrones
+> * Primeras conclusiones
+
 ## Integrantes
 
 |     Nombre    |     Usuario   |
